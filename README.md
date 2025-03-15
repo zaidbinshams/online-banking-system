@@ -1,5 +1,7 @@
 # automated-banking-system
 
+# DO NOT ATTEMPT TO READ
+
 | index.html {done}
 | styles.css {done}
 | user[] {done}
