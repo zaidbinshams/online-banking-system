@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="./styles.css" rel="stylesheet">
-    <title>Automated Banking System</title>
+    <title>Online Banking System</title>
 </head>
 <body>
     <div class="main-box">
         <div class="login-prompt">Choose login type</div>
-        <button class="user" onclick="document.location='./user/login-user.html'">User</button>
-        <button class="admin" onclick="document.location='./admin/login-admin.html'">Admin</button>
+        <div class="buttons">
+            <button class="user" onclick="document.location='./user/login-user.html'">User</button>
+            <button class="admin" onclick="document.location='./admin/login-admin.html'">Admin</button>
+        </div>
     </div>
 </body>
 </html>
