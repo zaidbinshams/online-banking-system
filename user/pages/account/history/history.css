@@ -14,6 +14,7 @@ div.header {
     font-weight: 900;
     font-size: 32px;
     padding: 12px 0px;
+    min-width: 750px;
     /* border-bottom: 2px solid rgb(12, 18, 26); */
     /* border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px; */
@@ -26,6 +27,7 @@ div.header {
 hr {
     margin: 0;
     padding: 0;
+    min-width: 750px;
 }
 
 div.main-box {
@@ -65,6 +67,7 @@ div.sender,
 div.status,
 div.date {
     flex: 1;
+    min-width: 140px;
     display: flex;
     flex-direction: column;
     align-items: center;

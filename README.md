@@ -3,11 +3,11 @@
 # index.html {done}
 # styles.css {done}
 # login[] {done}
-## - user.html
-## - user.jss
-## - admin.html
-## - admin.js
-## - login.css
+## - user.html {done}
+## - user.jss {done}
+## - admin.html {done}
+## - admin.js {done}
+## - login.css {done}
 # user[] {done}
 ## - user.html {done}
 ## - user.css {done}
@@ -20,6 +20,7 @@
 #### - history[] {done}
 ##### - history.html {done}
 ##### - history.css {done}
+##### - history.js {done}
 #### - statement[] {done}
 ##### - statement.html {done}
 ##### - statement.css {done}
@@ -109,3 +110,7 @@
 ##### - resolve.html {done}
 ##### - resolve.css {done}
 ##### - resolve.js {done}
+
+things to come back to:
+- account-action buttons positioning on the user/pages/account page
+- background-color of pages that have distinct boxes for content
