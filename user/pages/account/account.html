@@ -7,19 +7,21 @@
 </head>
 <body>
     <div class="main-box">
-        <div class="user-info">
-            <div>Account Holder Name: John Doe</div>
-            <div>Account Number: XXXX XXXX XXXX XXXX</div>
-            <div>Account Type: Savings</div>
-            <div class="accStatus">Account Status: Active</div>
-            <div class="balance">Balance: INR 10000</div>
-        </div>
-        <div class="buttons">
-            <button class="deposit" onclick="deposit();">Deposit Money</button>
-            <button class="withdraw" onclick="withdraw();">Withdraw Money</button>
-            <button class="transfer" onclick="transfer();">Transfer Money</button>
-            <button class="history" onclick="document.location='./history/history.html'">Transaction History</button>
-            <button class="statement" onclick="document.location='./statement/statement.html'">Get Statement</button>
+        <div class="account">
+            <div class="user-info">
+                <div>Account Holder Name: John Doe</div>
+                <div>Account Number: XXXX XXXX XXXX XXXX</div>
+                <div>Account Type: Savings</div>
+                <div class="accStatus">Account Status: Active</div>
+                <div class="balance">Balance: INR 10000</div>
+            </div>
+            <div class="buttons">
+                <button class="deposit" onclick="deposit();">Deposit Money</button>
+                <button class="withdraw" onclick="withdraw();">Withdraw Money</button>
+                <button class="transfer" onclick="transfer();">Transfer Money</button>
+                <button class="history" onclick="document.location='./history/history.html'">Transaction History</button>
+                <button class="statement" onclick="document.location='./statement/statement.html'">Get Statement</button>
+            </div>
         </div>
         <div class="account-actions">
             <button class="deactivate" onclick="changeAccountStatus();">Deactivate Account</button>
