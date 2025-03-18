@@ -10,7 +10,7 @@ function pay() {
     let final = confirm("Confirm payment?");
     if (final == true) {
         if (amt<=balance) {
-            alert(`INR ${amt} paid to ${id}`);
+            alert(`INR ${amt} paid to ${id}!`);
             balanceDiv.innerHTML = `<b>Balance:</b> INR ${balance-amt}`;
         } else {
             alert("Insufficient balance!");
@@ -22,7 +22,7 @@ function pay() {
 
 function add() {
     let amt = Number(prompt("Enter amount:"));
-    alert(`INR ${amt} added to wallet!`);
+    alert(`INR ${amt} added to wallet.`);
     balanceDiv.innerHTML = `<b>Balance:</b> INR ${balance+amt}`;
 }
 

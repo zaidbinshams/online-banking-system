@@ -67,7 +67,7 @@ div.sender,
 div.status,
 div.date {
     flex: 1;
-    min-width: 140px;
+    min-width: 150px;
     display: flex;
     flex-direction: column;
     align-items: center;
