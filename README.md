@@ -116,3 +116,4 @@ things to come back to:
 - background-color of pages that have distinct boxes for content
 - margin of body tags in all html files
 - font-weight of text that is in the form "abc: def ghi"
+- hr tag on the chatbot page
