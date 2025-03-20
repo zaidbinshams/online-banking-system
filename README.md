@@ -112,12 +112,13 @@
 ##### - resolve.js {done}
 
 things to come back to:
-- account-action buttons positioning on the user/pages/account page
+- 
 - background-color of pages that have distinct boxes for content
-- margin of body tags in all html files
+- 
 - font-weight of text that is in the form "abc: def ghi"
 - hr tag on the chatbot page
-- titles of all pages
+- 
 - script: user/pages/insurance, admin/pages/requests
 - design: admin/pages/requests
 - whole: admin/pages/complaints
+- logout button for admin

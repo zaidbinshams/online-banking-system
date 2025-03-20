@@ -44,9 +44,9 @@ div.user-info {
 
 div.account-actions {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     gap: 8px;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     padding-right: 16px;
     /* align-items: stretch; */

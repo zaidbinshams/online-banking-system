@@ -1,1 +1,0 @@
-// document.querySelector("button.test").onclick = document.location = "./pages/account/account.html";
