@@ -117,3 +117,7 @@ things to come back to:
 - margin of body tags in all html files
 - font-weight of text that is in the form "abc: def ghi"
 - hr tag on the chatbot page
+- titles of all pages
+- script: user/pages/insurance, admin/pages/requests
+- design: admin/pages/requests
+- whole: admin/pages/complaints

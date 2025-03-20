@@ -2,10 +2,46 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="./insurance.css">
-    <title>Insurance Requests</title>
+    <link rel="stylesheet" href="./requests.css">
+    <title>Verify Requests</title>
 </head>
 <body>
+    <div class="header">Verify Requests<hr></div>
+    <div class="main-box">
+        <div class="id">
+            <div class="sub-header">Account Number</div>
+            <div class="item-one">XXXX XXXX XXXX</div>
+            <div class="item-two">XXXX XXXX XXXX</div>
+            <div class="item-three">XXXX XXXX XXXX</div>
+            <div class="item-four">XXXX XXXX XXXX</div>
+        </div>
+        <div class="name">
+            <div class="sub-header">Request Type</div>
+            <div class="item">Loan</div>
+            <div class="item">Insurance</div>
+            <div class="item">Insurance</div>
+            <div class="item">Loan</div>
+        </div>
+        <div class="action">
+            <div class="sub-header">Actions</div>
+            <div class="buttons">
+                <div class="claim">
+                    <!-- <div class="sub-header">Tenure</div> -->
+                    <button onclick="action()" class="item">Claim</button>
+                    <button onclick="action()" class="item">Claim</button>
+                    <button onclick="action()" class="item">Claim</button>
+                    <button onclick="action()" class="item">Claim</button>
+                </div>
+                <div class="renew">
+                    <!-- <div class="sub-header">Status</div> -->
+                    <button onclick="action()" class="item">Renew</button>
+                    <button onclick="action()" class="item">Renew</button>
+                    <button onclick="action()" class="item">Renew</button>
+                    <button onclick="action()" class="item">Renew</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="./request.js"></script>
 </body>
 </html>
