@@ -115,10 +115,10 @@ things to come back to:
 - 
 - background-color of pages that have distinct boxes for content
 - 
-- font-weight of text that is in the form "abc: def ghi"
+- 
 - hr tag on the chatbot page
 - 
 - script: user/pages/insurance, admin/pages/requests
-- design: admin/pages/requests
-- whole: admin/pages/complaints
-- logout button for admin
+- 
+- 
+- 
