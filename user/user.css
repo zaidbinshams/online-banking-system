@@ -18,7 +18,7 @@ div.main-box{
     border-radius: 12px;
     padding: 12px;
     gap: 24px;
-    /* background-color: blanchedalmond; */
+    background-color: rgb(40, 60, 80);
 }
 
 div.header {

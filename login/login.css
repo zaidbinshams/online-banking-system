@@ -20,7 +20,7 @@ div.main-box {
     border: 2px solid white;
     border-radius: 12px;
     padding: 32px;
-    /* background-color: aqua; */
+    background-color: rgb(40, 60, 80);
 }
 
 div.header {

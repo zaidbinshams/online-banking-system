@@ -14,12 +14,12 @@ div.header {
     font-weight: 900;
     font-size: 32px;
     padding: 12px 0px;
-    min-width: 600px;
+    min-width: 660px;
     /* border-bottom: 2px solid rgb(12, 18, 26); */
     /* border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px; */
     /* color: rgb(12, 18, 26); */
-    /* background-color: white; */
+    background-color: rgb(40, 60, 80);
     color: white;
     text-decoration: dotted underline;
 }
@@ -27,7 +27,7 @@ div.header {
 hr {
     margin: 0;
     padding: 0;
-    min-width: 600px;
+    min-width: 660px;
 }
 
 div.main-box {

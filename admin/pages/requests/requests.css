@@ -18,6 +18,7 @@ div.header {
     min-width: 660px;
     color: white;
     text-decoration: dotted underline;
+    background-color: rgb(40, 60, 80);
 }
 
 hr {

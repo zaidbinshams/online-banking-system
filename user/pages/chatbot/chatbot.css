@@ -27,6 +27,7 @@ div.header {
     padding-top: 12px;
     color: white;
     text-decoration: dotted underline;
+    background-color: rgb(40, 60, 80);
 }
 
 div.info {

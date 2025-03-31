@@ -39,7 +39,7 @@ div.user-info {
     border: 2px solid white;
     border-radius: 6px;
     padding: 16px;
-    /* background-color: violet; */
+    background-color: rgb(40, 60, 80);
 }
 
 div.account-actions {

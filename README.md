@@ -113,7 +113,7 @@
 
 things to come back to:
 - 
-- background-color of pages that have distinct boxes for content
+- 
 - 
 - 
 - hr tag on the chatbot page
@@ -122,3 +122,4 @@ things to come back to:
 - 
 - 
 - 
+- header background-color on the chatbot page

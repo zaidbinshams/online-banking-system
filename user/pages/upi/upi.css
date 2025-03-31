@@ -23,7 +23,7 @@ div.main-box {
     color: white;
     border: 2px solid white;
     border-radius: 12px;
-    /* background-color: red; */
+    background-color: rgb(40, 60, 80);
 }
 
 div.id,

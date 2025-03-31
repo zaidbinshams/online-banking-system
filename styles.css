@@ -19,7 +19,7 @@ div.main-box {
     padding: 32px;
     border-radius: 12px;
     /* align-items: stretch; */
-    /* background-color: aqua; */
+    background-color: rgb(40, 60, 80);
 }
 
 div.login-prompt {
